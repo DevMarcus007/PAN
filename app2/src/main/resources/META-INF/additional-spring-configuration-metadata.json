@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "apihostbaseurl",
+    "type": "java.lang.String",
+    "description": "A description for 'apihostbaseurl'"
+  },
+  {
+    "name": "api.host.baseurl",
+    "type": "java.lang.String",
+    "description": "A description for 'api.host.baseurl'"
+  }
+]}
