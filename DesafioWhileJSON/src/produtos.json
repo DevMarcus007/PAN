@@ -1,0 +1,4 @@
+[{"Produto":"LEITE","ORIGEM":"RJ","Quantidade":"100 Litros", "Produtor": "Fazenda São Bernardino"},
+{"Produto":"CAFÉ","ORIGEM":"ES","Quantidade":"80 Sacas", "Produtor": "Cooperativa Ouro Negro"},
+{"Produto":"QUEIJO","ORIGEM":"MG","Quantidade":"150 Peças 1 Kg", "Produtor": "Fazenda Sete Lagoas"},
+{"Produto":"PRESUNTO","ORIGEM":"SP","Quantidade":"50 Peças 5 Kg", "Produtor": "Frigorífico Porks"}]
